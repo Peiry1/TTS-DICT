@@ -1,10 +1,10 @@
 # 离线英语词典
 
-这是一个基于Python开发的英语词典查询与发音工具，集成了本地词典查询和单词TTS发音功能。
-这个项目的灵感基于[Flint](https://github.com/sh0ckj0ckey/Flint)项目。
-数据库源源自[ECDICT](https://github.com/skywind3000/ECDICT)
-因为C#看不懂，所以用了python自己写了个小工具，原理不太难。
-代码开发主要用时2天，嗯，基本都是AI写的。
+这是一个基于Python开发的英语词典查询与发音工具，集成了本地词典查询和单词TTS发音功能。\
+这个项目的灵感基于[Flint](https://github.com/sh0ckj0ckey/Flint)项目。\
+数据库源源自[ECDICT](https://github.com/skywind3000/ECDICT)\
+因为C#看不懂，所以用了python自己写了个小工具，原理不太难。\
+代码开发主要用时2天，嗯，基本都是AI写的。\
 
 ## 版本
 - 0.0.1 
